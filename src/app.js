@@ -1,4 +1,4 @@
-/* import './style.css' */
+import './style.css'
 
 import { loadHeader } from './components/header/header.js'
 import { loadAbout } from './components/about/about.js'
