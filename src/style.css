@@ -1,0 +1,27 @@
+/* global.css */
+:root {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+}
+
+/* @media (max-width: 585px) {
+  #about {
+    flex-direction: column;
+  }
+  .about-header {
+    text-align: center;
+  }
+  .about-text {
+    margin-right: none;
+  }
+  .about-image {
+    width: 70%;
+    height: 70%;
+  }
+}
+ */
